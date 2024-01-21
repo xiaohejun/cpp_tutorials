@@ -5,7 +5,8 @@
 使用vscode作为IDE
 
 为什么用docker:
-docker可以将开发环境隔离
+1. docker可以将开发环境隔离
+2. 如果你的电脑是mac或者windows但是想有一个lunix的开发环境
 
 TODO:后面可能也会尝试clion+docker
 
